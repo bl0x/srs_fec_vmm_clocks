@@ -7,6 +7,8 @@ The SRS (scalable readout system) FEC (front-end controller) and the VMM hybrid 
 
 The schematics are made using the excellent graph editor [yEd](https://www.yworks.com/products/yed).
 
+Converted PDF files can be found in the [Releases section](https://github.com/bl0x/srs_fec_vmm_clocks/releases)
+
 To produce PDF files from the graphml, do the following:
 
 * open file with yEd
